@@ -8,5 +8,6 @@ gp.direction = .OUT
 
 while true {
 	gp.value = 1
+	sleep(1)
 	gp.value = 0
 }
