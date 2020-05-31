@@ -1,5 +1,5 @@
-import SwiftyGPIO
 import Foundation
+import SwiftyGPIO
 
 let gpios = SwiftyGPIO.GPIOs(for: .RaspberryPi3)
 var gp = gpios[.P2]!
