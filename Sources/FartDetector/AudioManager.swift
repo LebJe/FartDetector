@@ -7,7 +7,7 @@
 
 import Foundation
 import SwiftShell
-
+/*
 struct AudioManager {
 	static func play() {
 		run("play", "sounds/evacuate.mp3")
@@ -17,3 +17,4 @@ struct AudioManager {
 		
 	}
 }
+*/
