@@ -73,10 +73,14 @@ while true {
 						print("GAS GAS GAS! FART LEVEL", "EXTREME", "DETECTED! EVACUATE EVACUATE EVACUATE!")
 					}
 				}
+			} else {
+				print("Time out, recalibrating...")
 			}
 			
 		}
 		
+	} else {
+		print("Could not calibrate")
+		sleep(5)
 	}
 }
-
